@@ -1,5 +1,5 @@
 
-NB : must use pc to visit the website...bcz due to the presence of 3d model most of the phone can't process it
+NB : must use pc to visit the website...bcz due to the presence of 3d model most of the phone can't process it <br>
 link: https://apple-iphone15pro.vercel.app/
 
 <img width="1440" alt="Screenshot 2024-03-17 at 8 38 00 AM" src="https://github.com/Bilalbasheer100/react_threejs_gsap_sentry_apple15pro-website/assets/108890773/e26335cc-e50e-438b-a2a6-c52c15c9b859">
